@@ -1,1 +1,1 @@
-Jogos em python
+Projeto final do curso Python Essentials 1 da Cisco
